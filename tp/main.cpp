@@ -78,7 +78,11 @@ int main()
         "instances/st70.tsp",
         "instances/gil262.tsp",
         "instances/gr666.tsp",
-        "instances/dsj1000.tsp"};
+        "instances/dsj1000.tsp",
+        "instances/tburma14.tsp",
+        "instances/tberlin52.tsp",
+        "instances/tst70.tsp",
+        "instances/tgil262.tsp"};
 
     for (const auto &path : paths)
     {
