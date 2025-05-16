@@ -1,0 +1,192 @@
+-------------------------------------
+Instância: instances/burma14.tsp
+
+Parte 0 - Preliminar
+Custo para solução 1: 42
+Custo para solução 2: 60
+
+Parte 1 - Busca local
+Custo para solução 1: 31
+Custo para solução 2: 30
+-------------------------------------
+
+-------------------------------------
+Instância: instances/berlin52.tsp
+
+Parte 0 - Preliminar
+Custo para solução 1: 22205
+Custo para solução 2: 28043
+
+Parte 1 - Busca local
+Custo para solução 1: 8492
+Custo para solução 2: 8383
+-------------------------------------
+
+-------------------------------------
+Instância: instances/st70.tsp
+
+Parte 0 - Preliminar
+Custo para solução 1: 3410
+Custo para solução 2: 3454
+
+Parte 1 - Busca local
+Custo para solução 1: 712
+Custo para solução 2: 718
+-------------------------------------
+
+-------------------------------------
+Instância: instances/gil262.tsp
+
+Parte 0 - Preliminar
+Custo para solução 1: 26298
+Custo para solução 2: 27213
+
+Parte 1 - Busca local
+Custo para solução 1: 2675
+Custo para solução 2: 2521
+-------------------------------------
+
+-------------------------------------
+Instância: instances/gr666.tsp
+
+Parte 0 - Preliminar
+Custo para solução 1: 5554
+Custo para solução 2: 8788
+
+Parte 1 - Busca local
+Custo para solução 1: 3354
+Custo para solução 2: 3339
+-------------------------------------
+
+-------------------------------------
+Instância: instances/dsj1000.tsp
+
+Parte 0 - Preliminar
+Custo para solução 1: 557633555
+Custo para solução 2: 557770011
+
+Parte 1 - Busca local
+Custo para solução 1: 20205428
+Custo para solução 2: 20281802
+-------------------------------------
+
+-------------------------------------
+Instância: instances/t1_burma14.tsp
+
+Parte 0 - Preliminar
+Custo para solução 1: 45
+
+Parte 1 - Busca local
+Custo para solução 1: 38
+-------------------------------------
+
+-------------------------------------
+Instância: instances/t2_burma14.tsp
+
+Parte 0 - Preliminar
+Custo para solução 1: 43
+
+Parte 1 - Busca local
+Custo para solução 1: 36
+-------------------------------------
+
+-------------------------------------
+Instância: instances/t3_burma14.tsp
+
+Parte 0 - Preliminar
+Custo para solução 1: 44
+
+Parte 1 - Busca local
+Custo para solução 1: 39
+-------------------------------------
+
+-------------------------------------
+Instância: instances/t1_berlin52.tsp
+
+Parte 0 - Preliminar
+Custo para solução 1: 25605
+
+Parte 1 - Busca local
+Custo para solução 1: 15768
+-------------------------------------
+
+-------------------------------------
+Instância: instances/t2_berlin52.tsp
+
+Parte 0 - Preliminar
+Custo para solução 1: 23005
+
+Parte 1 - Busca local
+Custo para solução 1: 10835
+-------------------------------------
+
+-------------------------------------
+Instância: instances/t3_berlin52.tsp
+
+Parte 0 - Preliminar
+Custo para solução 1: 23805
+
+Parte 1 - Busca local
+Custo para solução 1: 13062
+-------------------------------------
+
+-------------------------------------
+Instância: instances/t1_st70.tsp
+
+Parte 0 - Preliminar
+Custo para solução 1: 3410
+
+Parte 1 - Busca local
+Custo para solução 1: 745
+-------------------------------------
+
+-------------------------------------
+Instância: instances/t2_st70.tsp
+
+Parte 0 - Preliminar
+Custo para solução 1: 3410
+
+Parte 1 - Busca local
+Custo para solução 1: 791
+-------------------------------------
+
+-------------------------------------
+Instância: instances/t3_st70.tsp
+
+Parte 0 - Preliminar
+Custo para solução 1: 3410
+
+Parte 1 - Busca local
+Custo para solução 1: 871
+-------------------------------------
+
+-------------------------------------
+Instância: instances/t4_st70.tsp
+
+Parte 0 - Preliminar
+Custo para solução 1: 3410
+
+Parte 1 - Busca local
+Custo para solução 1: 1128
+-------------------------------------
+
+-------------------------------------
+Instância: instances/t1_gil262.tsp
+
+Parte 0 - Preliminar
+Custo para solução 1: 26298
+
+Parte 1 - Busca local
+Custo para solução 1: 3539
+-------------------------------------
+
+-------------------------------------
+Instância: instances/t2_gil262.tsp
+
+Parte 0 - Preliminar
+Custo para solução 1: 26298
+
+Parte 1 - Busca local
+Custo para solução 1: 3293
+-------------------------------------
+
