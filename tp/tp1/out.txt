@@ -8,6 +8,10 @@ Custo para solução 2: 60
 Parte 1 - Busca local
 Custo para solução 1: 31
 Custo para solução 2: 30
+
+Parte 2 - Solução inicial
+Custo para solução 1: 30
+Custo para solução 2: 30
 -------------------------------------
 
 -------------------------------------
@@ -20,6 +24,10 @@ Custo para solução 2: 28043
 Parte 1 - Busca local
 Custo para solução 1: 8492
 Custo para solução 2: 8383
+
+Parte 2 - Solução inicial
+Custo para solução 1: 7842
+Custo para solução 2: 8056
 -------------------------------------
 
 -------------------------------------
@@ -32,6 +40,10 @@ Custo para solução 2: 3454
 Parte 1 - Busca local
 Custo para solução 1: 712
 Custo para solução 2: 718
+
+Parte 2 - Solução inicial
+Custo para solução 1: 677
+Custo para solução 2: 678
 -------------------------------------
 
 -------------------------------------
@@ -44,6 +56,10 @@ Custo para solução 2: 27213
 Parte 1 - Busca local
 Custo para solução 1: 2675
 Custo para solução 2: 2521
+
+Parte 2 - Solução inicial
+Custo para solução 1: 2576
+Custo para solução 2: 2504
 -------------------------------------
 
 -------------------------------------
@@ -56,6 +72,10 @@ Custo para solução 2: 8788
 Parte 1 - Busca local
 Custo para solução 1: 3354
 Custo para solução 2: 3339
+
+Parte 2 - Solução inicial
+Custo para solução 1: 3192
+Custo para solução 2: 3249
 -------------------------------------
 
 -------------------------------------
@@ -68,6 +88,10 @@ Custo para solução 2: 557770011
 Parte 1 - Busca local
 Custo para solução 1: 20205428
 Custo para solução 2: 20281802
+
+Parte 2 - Solução inicial
+Custo para solução 1: 20327483
+Custo para solução 2: 19940298
 -------------------------------------
 
 -------------------------------------
@@ -77,6 +101,9 @@ Parte 0 - Preliminar
 Custo para solução 1: 45
 
 Parte 1 - Busca local
+Custo para solução 1: 38
+
+Parte 2 - Solução inicial
 Custo para solução 1: 38
 -------------------------------------
 
@@ -88,6 +115,9 @@ Custo para solução 1: 43
 
 Parte 1 - Busca local
 Custo para solução 1: 36
+
+Parte 2 - Solução inicial
+Custo para solução 1: 36
 -------------------------------------
 
 -------------------------------------
@@ -98,6 +128,9 @@ Custo para solução 1: 44
 
 Parte 1 - Busca local
 Custo para solução 1: 39
+
+Parte 2 - Solução inicial
+Custo para solução 1: 36
 -------------------------------------
 
 -------------------------------------
@@ -108,6 +141,9 @@ Custo para solução 1: 25605
 
 Parte 1 - Busca local
 Custo para solução 1: 15768
+
+Parte 2 - Solução inicial
+Custo para solução 1: 15578
 -------------------------------------
 
 -------------------------------------
@@ -118,6 +154,9 @@ Custo para solução 1: 23005
 
 Parte 1 - Busca local
 Custo para solução 1: 10835
+
+Parte 2 - Solução inicial
+Custo para solução 1: 10710
 -------------------------------------
 
 -------------------------------------
@@ -128,6 +167,9 @@ Custo para solução 1: 23805
 
 Parte 1 - Busca local
 Custo para solução 1: 13062
+
+Parte 2 - Solução inicial
+Custo para solução 1: 13010
 -------------------------------------
 
 -------------------------------------
@@ -138,6 +180,9 @@ Custo para solução 1: 3410
 
 Parte 1 - Busca local
 Custo para solução 1: 745
+
+Parte 2 - Solução inicial
+Custo para solução 1: 711
 -------------------------------------
 
 -------------------------------------
@@ -148,6 +193,9 @@ Custo para solução 1: 3410
 
 Parte 1 - Busca local
 Custo para solução 1: 791
+
+Parte 2 - Solução inicial
+Custo para solução 1: 782
 -------------------------------------
 
 -------------------------------------
@@ -158,6 +206,9 @@ Custo para solução 1: 3410
 
 Parte 1 - Busca local
 Custo para solução 1: 871
+
+Parte 2 - Solução inicial
+Custo para solução 1: 867
 -------------------------------------
 
 -------------------------------------
@@ -168,6 +219,9 @@ Custo para solução 1: 3410
 
 Parte 1 - Busca local
 Custo para solução 1: 1128
+
+Parte 2 - Solução inicial
+Custo para solução 1: 1099
 -------------------------------------
 
 -------------------------------------
@@ -178,6 +232,9 @@ Custo para solução 1: 26298
 
 Parte 1 - Busca local
 Custo para solução 1: 3539
+
+Parte 2 - Solução inicial
+Custo para solução 1: 3579
 -------------------------------------
 
 -------------------------------------
@@ -188,5 +245,8 @@ Custo para solução 1: 26298
 
 Parte 1 - Busca local
 Custo para solução 1: 3293
+
+Parte 2 - Solução inicial
+Custo para solução 1: 3331
 -------------------------------------
 

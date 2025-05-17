@@ -2,53 +2,36 @@
 #define HEURISTIC_H
 
 #include <algorithm>
+#include <list>
 #include <vector>
 
 class Heuristic
 {
 private:
-    int verify_tolls(
-        std::vector<int> &solution,
-        std::vector<std::vector<int>> &distance,
-        std::vector<std::vector<bool>> &tolls,
-        int t, double p);
+    int solution_size;
+    std::vector<std::vector<int>> distance;
+    std::vector<std::vector<bool>> tolls;
+    int free_tolls;
+    double tolls_price;
 
-    std::pair<bool, std::vector<int>> find_best_improvement(
-        std::vector<int> &solution,
-        std::vector<std::vector<int>> &distance);
+    std::pair<bool, std::vector<int>> find_best_improvement(std::vector<int> &solution);
 
-    std::pair<bool, std::vector<int>> find_best_improvement_tolls(
-        std::vector<int> &solution,
-        std::vector<std::vector<int>> &distance,
-        std::vector<std::vector<bool>> &tolls,
-        int t, double p);
+    std::pair<bool, std::vector<int>> find_best_improvement_tolls(const std::vector<int> &solution);
 
 public:
-    Heuristic();
+    Heuristic(
+        int solution_size,
+        const std::vector<std::vector<int>> &distance,
+        const std::vector<std::vector<bool>> &tolls,
+        int free_tolls, double tolls_price);
 
-    int evaluate(
-        std::vector<int> &solution,
-        std::vector<std::vector<int>> &distance,
-        std::vector<std::vector<bool>> &tolls,
-        int t, double p);
+    int evaluate(const std::vector<int> &solution, int free_tolls);
 
-    int local_search(
-        std::vector<int> &solution,
-        std::vector<std::vector<int>> &distance,
-        std::vector<std::vector<bool>> &tolls,
-        int t, double p);
+    int local_search(std::vector<int> &solution);
 
-    int nearest_neighbor_v1(
-        std::vector<int> &solution,
-        std::vector<std::vector<int>> &distance,
-        std::vector<std::vector<bool>> &tolls,
-        int t, double p);
+    std::vector<int> nearest_neighbor_v1();
 
-    int nearest_neighbor_v2(
-        std::vector<int> &solution,
-        std::vector<std::vector<int>> &distance,
-        std::vector<std::vector<bool>> &tolls,
-        int t, double p);
+    std::vector<int> nearest_neighbor_v2();
 };
 
 #endif
