@@ -1,0 +1,171 @@
+Questão 1
+Diferença percentual entre 'crescente' e 'avaliacao_direta_nearest_neighbor' - Parte 0 e 2:
+burma14: -26.19%
+berlin52: -59.56%
+st70: -76.8%
+gil262: -88.51%
+gr666: -29.37%
+dsj1000: -95.58%
+t1_burma14: -15.56%
+t2_burma14: -16.28%
+t3_burma14: -6.82%
+t1_berlin52: -35.25%
+t2_berlin52: -48.79%
+t3_berlin52: -38.75%
+t1_st70: -75.63%
+t2_st70: -73.28%
+t3_st70: -70.12%
+t4_st70: -63.31%
+t1_gil262: -84.07%
+t2_gil262: -85.34%
+Média:  -54.96
+
+Diferença percentual entre 'crescente' e 'avaliacao_direta_nearest_neighbor_two_sides' - Parte 0 e 2:
+burma14: -19.05%
+berlin52: -60.41%
+st70: -76.22%
+gil262: -89.01%
+gr666: -29.51%
+dsj1000: -95.77%
+t1_burma14: None%
+t2_burma14: None%
+t3_burma14: None%
+t1_berlin52: None%
+t2_berlin52: None%
+t3_berlin52: None%
+t1_st70: None%
+t2_st70: None%
+t3_st70: None%
+t4_st70: None%
+t1_gil262: None%
+t2_gil262: None%
+Média:  -61.66
+
+Questão 2
+Diferença percentual entre 'avaliacao_direta_nearest_neighbor' e 'avaliacao_direta_nearest_neighbor_two_sides' - Parte 2:
+burma14: 9.68%
+berlin52: -2.12%
+st70: 2.53%
+gil262: -4.37%
+gr666: -0.2%
+dsj1000: -4.3%
+t1_burma14: None%
+t2_burma14: None%
+t3_burma14: None%
+t1_berlin52: None%
+t2_berlin52: None%
+t3_berlin52: None%
+t1_st70: None%
+t2_st70: None%
+t3_st70: None%
+t4_st70: None%
+t1_gil262: None%
+t2_gil262: None%
+Média:  0.2
+
+Diferença percentual entre 'busca_local_nearest_neighbor' e 'busca_local_nearest_neighbor_two_sides' - Parte 2:
+burma14: 0.0%
+berlin52: 2.73%
+st70: 0.15%
+gil262: -2.8%
+gr666: 1.79%
+dsj1000: -1.9%
+t1_burma14: None%
+t2_burma14: None%
+t3_burma14: None%
+t1_berlin52: None%
+t2_berlin52: None%
+t3_berlin52: None%
+t1_st70: None%
+t2_st70: None%
+t3_st70: None%
+t4_st70: None%
+t1_gil262: None%
+t2_gil262: None%
+Média:  -0.0
+
+Questão 3
+Diferença percentual entre 'crescente' e 'crescente' - Parte 0 e 1:
+burma14: -26.19%
+berlin52: -61.76%
+st70: -79.12%
+gil262: -89.83%
+gr666: -39.61%
+dsj1000: -96.38%
+t1_burma14: -15.56%
+t2_burma14: -16.28%
+t3_burma14: -11.36%
+t1_berlin52: -38.42%
+t2_berlin52: -52.9%
+t3_berlin52: -45.13%
+t1_st70: -78.15%
+t2_st70: -76.8%
+t3_st70: -74.46%
+t4_st70: -66.92%
+t1_gil262: -86.54%
+t2_gil262: -87.48%
+Média:  -57.94
+
+Diferença percentual entre 'impar_par' e 'impar_par' - Parte 0 e 1:
+burma14: -50.0%
+berlin52: -70.11%
+st70: -79.21%
+gil262: -90.74%
+gr666: -62.01%
+dsj1000: -96.36%
+t1_burma14: None%
+t2_burma14: None%
+t3_burma14: None%
+t1_berlin52: None%
+t2_berlin52: None%
+t3_berlin52: None%
+t1_st70: None%
+t2_st70: None%
+t3_st70: None%
+t4_st70: None%
+t1_gil262: None%
+t2_gil262: None%
+Média:  -74.74
+
+Questão 4 e 5
+Diferença percentual entre 'avaliacao_direta_nearest_neighbor' e 'busca_local_nearest_neighbor' - Parte 2:
+burma14: -3.23%
+berlin52: -12.67%
+st70: -14.41%
+gil262: -14.73%
+gr666: -18.63%
+dsj1000: -17.47%
+t1_burma14: 0.0%
+t2_burma14: 0.0%
+t3_burma14: -12.2%
+t1_berlin52: -6.04%
+t2_berlin52: -9.08%
+t3_berlin52: -10.77%
+t1_st70: -14.44%
+t2_st70: -14.16%
+t3_st70: -14.92%
+t4_st70: -12.15%
+t1_gil262: -14.58%
+t2_gil262: -13.62%
+Média:  -11.28
+
+Diferença percentual entre 'avaliacao_direta_nearest_neighbor_two_sides' e 'busca_local_nearest_neighbor_two_sides' - Parte 2:
+burma14: -11.76%
+berlin52: -8.35%
+st70: -16.4%
+gil262: -13.33%
+gr666: -17.01%
+dsj1000: -15.4%
+t1_burma14: None%
+t2_burma14: None%
+t3_burma14: None%
+t1_berlin52: None%
+t2_berlin52: None%
+t3_berlin52: None%
+t1_st70: None%
+t2_st70: None%
+t3_st70: None%
+t4_st70: None%
+t1_gil262: None%
+t2_gil262: None%
+Média:  -13.71

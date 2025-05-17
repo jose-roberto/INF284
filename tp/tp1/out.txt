@@ -1,252 +1,276 @@
 -------------------------------------
 Instância: instances/burma14.tsp
 
-Parte 0 - Preliminar
-Custo para solução 1: 42
-Custo para solução 2: 60
+Parte 0 - Preliminar - Avaliação direta
+Custo para solução Crescente: 42
+Custo para solução Ímpar/par: 60
 
 Parte 1 - Busca local
-Custo para solução 1: 31
-Custo para solução 2: 30
+Custo para solução Crescente: 31
+Custo para solução Ímpar/par: 30
 
-Parte 2 - Solução inicial
-Custo para solução 1: 30
-Custo para solução 2: 30
+Parte 2 - Solução inicial - Nearest Neighbor 
+Custo para solução Nearest Neighbor - Avaliação Direta: 31
+Custo para solução Nearest Neighbor Two Sides - Avaliação Direta: 34
+Custo para solução Nearest Neighbor - Busca Local: 30
+Custo para solução Nearest Neighbor Two Sides - Busca Local: 30
 -------------------------------------
 
 -------------------------------------
 Instância: instances/berlin52.tsp
 
-Parte 0 - Preliminar
-Custo para solução 1: 22205
-Custo para solução 2: 28043
+Parte 0 - Preliminar - Avaliação direta
+Custo para solução Crescente: 22205
+Custo para solução Ímpar/par: 28043
 
 Parte 1 - Busca local
-Custo para solução 1: 8492
-Custo para solução 2: 8383
+Custo para solução Crescente: 8492
+Custo para solução Ímpar/par: 8383
 
-Parte 2 - Solução inicial
-Custo para solução 1: 7842
-Custo para solução 2: 8056
+Parte 2 - Solução inicial - Nearest Neighbor 
+Custo para solução Nearest Neighbor - Avaliação Direta: 8980
+Custo para solução Nearest Neighbor Two Sides - Avaliação Direta: 8790
+Custo para solução Nearest Neighbor - Busca Local: 7842
+Custo para solução Nearest Neighbor Two Sides - Busca Local: 8056
 -------------------------------------
 
 -------------------------------------
 Instância: instances/st70.tsp
 
-Parte 0 - Preliminar
-Custo para solução 1: 3410
-Custo para solução 2: 3454
+Parte 0 - Preliminar - Avaliação direta
+Custo para solução Crescente: 3410
+Custo para solução Ímpar/par: 3454
 
 Parte 1 - Busca local
-Custo para solução 1: 712
-Custo para solução 2: 718
+Custo para solução Crescente: 712
+Custo para solução Ímpar/par: 718
 
-Parte 2 - Solução inicial
-Custo para solução 1: 677
-Custo para solução 2: 678
+Parte 2 - Solução inicial - Nearest Neighbor 
+Custo para solução Nearest Neighbor - Avaliação Direta: 791
+Custo para solução Nearest Neighbor Two Sides - Avaliação Direta: 811
+Custo para solução Nearest Neighbor - Busca Local: 677
+Custo para solução Nearest Neighbor Two Sides - Busca Local: 678
 -------------------------------------
 
 -------------------------------------
 Instância: instances/gil262.tsp
 
-Parte 0 - Preliminar
-Custo para solução 1: 26298
-Custo para solução 2: 27213
+Parte 0 - Preliminar - Avaliação direta
+Custo para solução Crescente: 26298
+Custo para solução Ímpar/par: 27213
 
 Parte 1 - Busca local
-Custo para solução 1: 2675
-Custo para solução 2: 2521
+Custo para solução Crescente: 2675
+Custo para solução Ímpar/par: 2521
 
-Parte 2 - Solução inicial
-Custo para solução 1: 2576
-Custo para solução 2: 2504
+Parte 2 - Solução inicial - Nearest Neighbor 
+Custo para solução Nearest Neighbor - Avaliação Direta: 3021
+Custo para solução Nearest Neighbor Two Sides - Avaliação Direta: 2889
+Custo para solução Nearest Neighbor - Busca Local: 2576
+Custo para solução Nearest Neighbor Two Sides - Busca Local: 2504
 -------------------------------------
 
 -------------------------------------
 Instância: instances/gr666.tsp
 
-Parte 0 - Preliminar
-Custo para solução 1: 5554
-Custo para solução 2: 8788
+Parte 0 - Preliminar - Avaliação direta
+Custo para solução Crescente: 5554
+Custo para solução Ímpar/par: 8788
 
 Parte 1 - Busca local
-Custo para solução 1: 3354
-Custo para solução 2: 3339
+Custo para solução Crescente: 3354
+Custo para solução Ímpar/par: 3339
 
-Parte 2 - Solução inicial
-Custo para solução 1: 3192
-Custo para solução 2: 3249
+Parte 2 - Solução inicial - Nearest Neighbor 
+Custo para solução Nearest Neighbor - Avaliação Direta: 3923
+Custo para solução Nearest Neighbor Two Sides - Avaliação Direta: 3915
+Custo para solução Nearest Neighbor - Busca Local: 3192
+Custo para solução Nearest Neighbor Two Sides - Busca Local: 3249
 -------------------------------------
 
 -------------------------------------
 Instância: instances/dsj1000.tsp
 
-Parte 0 - Preliminar
-Custo para solução 1: 557633555
-Custo para solução 2: 557770011
+Parte 0 - Preliminar - Avaliação direta
+Custo para solução Crescente: 557633555
+Custo para solução Ímpar/par: 557770011
 
 Parte 1 - Busca local
-Custo para solução 1: 20205428
-Custo para solução 2: 20281802
+Custo para solução Crescente: 20205428
+Custo para solução Ímpar/par: 20281802
 
-Parte 2 - Solução inicial
-Custo para solução 1: 20327483
-Custo para solução 2: 19940298
+Parte 2 - Solução inicial - Nearest Neighbor 
+Custo para solução Nearest Neighbor - Avaliação Direta: 24630960
+Custo para solução Nearest Neighbor Two Sides - Avaliação Direta: 23570849
+Custo para solução Nearest Neighbor - Busca Local: 20327483
+Custo para solução Nearest Neighbor Two Sides - Busca Local: 19940298
 -------------------------------------
 
 -------------------------------------
 Instância: instances/t1_burma14.tsp
 
-Parte 0 - Preliminar
-Custo para solução 1: 45
+Parte 0 - Preliminar - Avaliação direta
+Custo para solução Crescente: 45
 
 Parte 1 - Busca local
-Custo para solução 1: 38
+Custo para solução Crescente: 38
 
-Parte 2 - Solução inicial
-Custo para solução 1: 38
+Parte 2 - Solução inicial - Nearest Neighbor 
+Custo para solução Nearest Neighbor - Avaliação Direta: 38
+Custo para solução Nearest Neighbor - Busca Local: 38
 -------------------------------------
 
 -------------------------------------
 Instância: instances/t2_burma14.tsp
 
-Parte 0 - Preliminar
-Custo para solução 1: 43
+Parte 0 - Preliminar - Avaliação direta
+Custo para solução Crescente: 43
 
 Parte 1 - Busca local
-Custo para solução 1: 36
+Custo para solução Crescente: 36
 
-Parte 2 - Solução inicial
-Custo para solução 1: 36
+Parte 2 - Solução inicial - Nearest Neighbor 
+Custo para solução Nearest Neighbor - Avaliação Direta: 36
+Custo para solução Nearest Neighbor - Busca Local: 36
 -------------------------------------
 
 -------------------------------------
 Instância: instances/t3_burma14.tsp
 
-Parte 0 - Preliminar
-Custo para solução 1: 44
+Parte 0 - Preliminar - Avaliação direta
+Custo para solução Crescente: 44
 
 Parte 1 - Busca local
-Custo para solução 1: 39
+Custo para solução Crescente: 39
 
-Parte 2 - Solução inicial
-Custo para solução 1: 36
+Parte 2 - Solução inicial - Nearest Neighbor 
+Custo para solução Nearest Neighbor - Avaliação Direta: 41
+Custo para solução Nearest Neighbor - Busca Local: 36
 -------------------------------------
 
 -------------------------------------
 Instância: instances/t1_berlin52.tsp
 
-Parte 0 - Preliminar
-Custo para solução 1: 25605
+Parte 0 - Preliminar - Avaliação direta
+Custo para solução Crescente: 25605
 
 Parte 1 - Busca local
-Custo para solução 1: 15768
+Custo para solução Crescente: 15768
 
-Parte 2 - Solução inicial
-Custo para solução 1: 15578
+Parte 2 - Solução inicial - Nearest Neighbor 
+Custo para solução Nearest Neighbor - Avaliação Direta: 16580
+Custo para solução Nearest Neighbor - Busca Local: 15578
 -------------------------------------
 
 -------------------------------------
 Instância: instances/t2_berlin52.tsp
 
-Parte 0 - Preliminar
-Custo para solução 1: 23005
+Parte 0 - Preliminar - Avaliação direta
+Custo para solução Crescente: 23005
 
 Parte 1 - Busca local
-Custo para solução 1: 10835
+Custo para solução Crescente: 10835
 
-Parte 2 - Solução inicial
-Custo para solução 1: 10710
+Parte 2 - Solução inicial - Nearest Neighbor 
+Custo para solução Nearest Neighbor - Avaliação Direta: 11780
+Custo para solução Nearest Neighbor - Busca Local: 10710
 -------------------------------------
 
 -------------------------------------
 Instância: instances/t3_berlin52.tsp
 
-Parte 0 - Preliminar
-Custo para solução 1: 23805
+Parte 0 - Preliminar - Avaliação direta
+Custo para solução Crescente: 23805
 
 Parte 1 - Busca local
-Custo para solução 1: 13062
+Custo para solução Crescente: 13062
 
-Parte 2 - Solução inicial
-Custo para solução 1: 13010
+Parte 2 - Solução inicial - Nearest Neighbor 
+Custo para solução Nearest Neighbor - Avaliação Direta: 14580
+Custo para solução Nearest Neighbor - Busca Local: 13010
 -------------------------------------
 
 -------------------------------------
 Instância: instances/t1_st70.tsp
 
-Parte 0 - Preliminar
-Custo para solução 1: 3410
+Parte 0 - Preliminar - Avaliação direta
+Custo para solução Crescente: 3410
 
 Parte 1 - Busca local
-Custo para solução 1: 745
+Custo para solução Crescente: 745
 
-Parte 2 - Solução inicial
-Custo para solução 1: 711
+Parte 2 - Solução inicial - Nearest Neighbor 
+Custo para solução Nearest Neighbor - Avaliação Direta: 831
+Custo para solução Nearest Neighbor - Busca Local: 711
 -------------------------------------
 
 -------------------------------------
 Instância: instances/t2_st70.tsp
 
-Parte 0 - Preliminar
-Custo para solução 1: 3410
+Parte 0 - Preliminar - Avaliação direta
+Custo para solução Crescente: 3410
 
 Parte 1 - Busca local
-Custo para solução 1: 791
+Custo para solução Crescente: 791
 
-Parte 2 - Solução inicial
-Custo para solução 1: 782
+Parte 2 - Solução inicial - Nearest Neighbor 
+Custo para solução Nearest Neighbor - Avaliação Direta: 911
+Custo para solução Nearest Neighbor - Busca Local: 782
 -------------------------------------
 
 -------------------------------------
 Instância: instances/t3_st70.tsp
 
-Parte 0 - Preliminar
-Custo para solução 1: 3410
+Parte 0 - Preliminar - Avaliação direta
+Custo para solução Crescente: 3410
 
 Parte 1 - Busca local
-Custo para solução 1: 871
+Custo para solução Crescente: 871
 
-Parte 2 - Solução inicial
-Custo para solução 1: 867
+Parte 2 - Solução inicial - Nearest Neighbor 
+Custo para solução Nearest Neighbor - Avaliação Direta: 1019
+Custo para solução Nearest Neighbor - Busca Local: 867
 -------------------------------------
 
 -------------------------------------
 Instância: instances/t4_st70.tsp
 
-Parte 0 - Preliminar
-Custo para solução 1: 3410
+Parte 0 - Preliminar - Avaliação direta
+Custo para solução Crescente: 3410
 
 Parte 1 - Busca local
-Custo para solução 1: 1128
+Custo para solução Crescente: 1128
 
-Parte 2 - Solução inicial
-Custo para solução 1: 1099
+Parte 2 - Solução inicial - Nearest Neighbor 
+Custo para solução Nearest Neighbor - Avaliação Direta: 1251
+Custo para solução Nearest Neighbor - Busca Local: 1099
 -------------------------------------
 
 -------------------------------------
 Instância: instances/t1_gil262.tsp
 
-Parte 0 - Preliminar
-Custo para solução 1: 26298
+Parte 0 - Preliminar - Avaliação direta
+Custo para solução Crescente: 26298
 
 Parte 1 - Busca local
-Custo para solução 1: 3539
+Custo para solução Crescente: 3539
 
-Parte 2 - Solução inicial
-Custo para solução 1: 3579
+Parte 2 - Solução inicial - Nearest Neighbor 
+Custo para solução Nearest Neighbor - Avaliação Direta: 4190
+Custo para solução Nearest Neighbor - Busca Local: 3579
 -------------------------------------
 
 -------------------------------------
 Instância: instances/t2_gil262.tsp
 
-Parte 0 - Preliminar
-Custo para solução 1: 26298
+Parte 0 - Preliminar - Avaliação direta
+Custo para solução Crescente: 26298
 
 Parte 1 - Busca local
-Custo para solução 1: 3293
+Custo para solução Crescente: 3293
 
-Parte 2 - Solução inicial
-Custo para solução 1: 3331
+Parte 2 - Solução inicial - Nearest Neighbor 
+Custo para solução Nearest Neighbor - Avaliação Direta: 3856
+Custo para solução Nearest Neighbor - Busca Local: 3331
 -------------------------------------
 

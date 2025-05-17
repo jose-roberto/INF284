@@ -150,27 +150,34 @@ int main()
             free_tolls,
             tolls_price);
 
-        std::cout << "Parte 0 - Preliminar" << std::endl;
-        std::cout << "Custo para solução 1: " << heuristic.evaluate(initial_solution_1, free_tolls) << std::endl;
-        if (tolls_price == 0)
-            std::cout << "Custo para solução 2: " << heuristic.evaluate(initial_solution_2, free_tolls) << std::endl;
-
-        std::cout << "\nParte 1 - Busca local" << std::endl;
-        std::cout << "Custo para solução 1: " << heuristic.local_search(initial_solution_1) << std::endl;
-        if (tolls_price == 0)
-            std::cout << "Custo para solução 2: " << heuristic.local_search(initial_solution_2) << std::endl;
-
         std::vector<int> nearest_neighbor_1 = heuristic.nearest_neighbor_v1();
         std::vector<int> nearest_neighbor_2 = heuristic.nearest_neighbor_v2();
 
-        std::cout << "\nParte 2 - Solução inicial" << std::endl;
+        std::cout << "Parte 0 - Preliminar - Avaliação direta" << std::endl;
+        std::cout << "Custo para solução Crescente: " << heuristic.evaluate(initial_solution_1, free_tolls) << std::endl;
+        if (tolls_price == 0)
+            std::cout << "Custo para solução Ímpar/par: " << heuristic.evaluate(initial_solution_2, free_tolls) << std::endl;
+
+        std::cout << "\nParte 1 - Busca local" << std::endl;
+        std::cout << "Custo para solução Crescente: " << heuristic.local_search(initial_solution_1) << std::endl;
+        if (tolls_price == 0)
+            std::cout << "Custo para solução Ímpar/par: " << heuristic.local_search(initial_solution_2) << std::endl;
+
+        std::cout << "\nParte 2 - Solução inicial - Nearest Neighbor " << std::endl;
         if (tolls_price == 0)
         {
-            std::cout << "Custo para solução 1: " << heuristic.local_search(nearest_neighbor_1) << std::endl;
-            std::cout << "Custo para solução 2: " << heuristic.local_search(nearest_neighbor_2) << std::endl;
+            std::cout << "Custo para solução Nearest Neighbor - Avaliação Direta: " << heuristic.evaluate(nearest_neighbor_1, free_tolls) << std::endl;
+            std::cout << "Custo para solução Nearest Neighbor Two Sides - Avaliação Direta: " << heuristic.evaluate(nearest_neighbor_2, free_tolls) << std::endl;
+
+            std::cout << "Custo para solução Nearest Neighbor - Busca Local: " << heuristic.local_search(nearest_neighbor_1) << std::endl;
+            std::cout << "Custo para solução Nearest Neighbor Two Sides - Busca Local: " << heuristic.local_search(nearest_neighbor_2) << std::endl;
         }
         else
-            std::cout << "Custo para solução 1: " << heuristic.local_search(nearest_neighbor_1) << std::endl;
+        {
+            std::cout << "Custo para solução Nearest Neighbor - Avaliação Direta: " << heuristic.evaluate(nearest_neighbor_1, free_tolls) << std::endl;
+
+            std::cout << "Custo para solução Nearest Neighbor - Busca Local: " << heuristic.local_search(nearest_neighbor_1) << std::endl;
+        }
         std::cout << "-------------------------------------" << std::endl;
 
         std::cout << std::endl;
