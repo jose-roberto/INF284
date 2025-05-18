@@ -43,38 +43,38 @@ O trabalho teve como foco a aplicação de heurísticas gulosas e de busca local
     </tr>
     <tr>
       <td>berlin52</td>
-      <td>22205</td><td>28043</td>
-      <td>8492</td><td>8383</td>
-      <td>8980</td><td>8790</td>
-      <td>7842</td><td>8056</td>
+      <td>22.205</td><td>28.043</td>
+      <td>8.492</td><td>8.383</td>
+      <td>8.980</td><td>8.790</td>
+      <td>7.842</td><td>8.056</td>
     </tr>
     <tr>
       <td>st70</td>
-      <td>3410</td><td>3454</td>
+      <td>3.410</td><td>3.454</td>
       <td>712</td><td>718</td>
       <td>791</td><td>811</td>
       <td>677</td><td>678</td>
     </tr>
     <tr>
       <td>gil262</td>
-      <td>26298</td><td>27213</td>
-      <td>2675</td><td>2521</td>
-      <td>3021</td><td>2889</td>
-      <td>2576</td><td>2504</td>
+      <td>26.298</td><td>27.213</td>
+      <td>2.675</td><td>2.521</td>
+      <td>3.021</td><td>2.889</td>
+      <td>2.576</td><td>2.504</td>
     </tr>
     <tr>
       <td>gr666</td>
-      <td>5554</td><td>8788</td>
-      <td>3354</td><td>3339</td>
-      <td>3923</td><td>3915</td>
-      <td>3192</td><td>3249</td>
+      <td>5.554</td><td>8.788</td>
+      <td>3.354</td><td>3.339</td>
+      <td>3.923</td><td>3.915</td>
+      <td>3.192</td><td>3.249</td>
     </tr>
     <tr>
       <td>dsj1000</td>
-      <td>557633555</td><td>557770011</td>
-      <td>20205428</td><td>20281802</td>
-      <td>24630960</td><td>23570849</td>
-      <td>20327483</td><td>19940298</td>
+      <td>557.633.555</td><td>557.770.011</td>
+      <td>20.205.428</td><td>20.281.802</td>
+      <td>24.630.960</td><td>23.570.849</td>
+      <td>20.327.483</td><td>19.940.298</td>
     </tr>
     <tr>
       <td>t1_burma14</td>
@@ -99,66 +99,66 @@ O trabalho teve como foco a aplicação de heurísticas gulosas e de busca local
     </tr>
     <tr>
       <td>t1_berlin52</td>
-      <td>25605</td><td>–</td>
-      <td>15768</td><td>–</td>
-      <td>16580</td><td>–</td>
-      <td>15578</td><td>–</td>
+      <td>25.605</td><td>–</td>
+      <td>15.768</td><td>–</td>
+      <td>16.580</td><td>–</td>
+      <td>15.578</td><td>–</td>
     </tr>
     <tr>
       <td>t2_berlin52</td>
-      <td>23005</td><td>–</td>
-      <td>10835</td><td>–</td>
-      <td>11780</td><td>–</td>
-      <td>10710</td><td>–</td>
+      <td>23.005</td><td>–</td>
+      <td>10.835</td><td>–</td>
+      <td>11.780</td><td>–</td>
+      <td>10.710</td><td>–</td>
     </tr>
     <tr>
       <td>t3_berlin52</td>
-      <td>23805</td><td>–</td>
-      <td>13062</td><td>–</td>
-      <td>14580</td><td>–</td>
-      <td>13010</td><td>–</td>
+      <td>23.805</td><td>–</td>
+      <td>13.062</td><td>–</td>
+      <td>14.580</td><td>–</td>
+      <td>13.010</td><td>–</td>
     </tr>
     <tr>
       <td>t1_st70</td>
-      <td>3410</td><td>–</td>
+      <td>3.410</td><td>–</td>
       <td>745</td><td>–</td>
       <td>831</td><td>–</td>
       <td>711</td><td>–</td>
     </tr>
     <tr>
       <td>t2_st70</td>
-      <td>3410</td><td>–</td>
+      <td>3.410</td><td>–</td>
       <td>791</td><td>–</td>
       <td>911</td><td>–</td>
       <td>782</td><td>–</td>
     </tr>
     <tr>
       <td>t3_st70</td>
-      <td>3410</td><td>–</td>
+      <td>3.410</td><td>–</td>
       <td>871</td><td>–</td>
-      <td>1019</td><td>–</td>
+      <td>1.019</td><td>–</td>
       <td>867</td><td>–</td>
     </tr>
     <tr>
       <td>t4_st70</td>
-      <td>3410</td><td>–</td>
-      <td>1128</td><td>–</td>
-      <td>1251</td><td>–</td>
-      <td>1099</td><td>–</td>
+      <td>3.410</td><td>–</td>
+      <td>1.128</td><td>–</td>
+      <td>1.251</td><td>–</td>
+      <td>1.099</td><td>–</td>
     </tr>
     <tr>
       <td>t1_gil262</td>
-      <td>26298</td><td>–</td>
-      <td>3539</td><td>–</td>
-      <td>4190</td><td>–</td>
-      <td>3579</td><td>–</td>
+      <td>26.298</td><td>–</td>
+      <td>3.539</td><td>–</td>
+      <td>4.190</td><td>–</td>
+      <td>3.579</td><td>–</td>
     </tr>
     <tr>
       <td>t2_gil262</td>
-      <td>26298</td><td>–</td>
-      <td>3293</td><td>–</td>
-      <td>3856</td><td>–</td>
-      <td>3331</td><td>–</td>
+      <td>26.298</td><td>–</td>
+      <td>3.293</td><td>–</td>
+      <td>3.856</td><td>–</td>
+      <td>3.331</td><td>–</td>
     </tr>
   </tbody>
 </table>
