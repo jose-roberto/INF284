@@ -171,16 +171,16 @@ Sim. Comparando a avaliação direta da rota trivial com a que parte da rota gul
 
 - Alguma versão do guloso se saiu melhor ou tanto faz?
 
-Tanto faz, pois, apesar de ser possível ver uma versão se sobressaindo em relação à outra para algumas instâncias, na média e em uma vista geral as diferenças foram bem sutis.
+Tanto faz, pois, embora a segunda versão tenha se destacado em instâncias como gil262 (-4,37%) e dsj1000 (-4,3%), a diferença média entre as estratégias foi bem sútil, indicando desempenho equivalente na maioria dos casos.
 
 - A busca local conseguiu melhorar a solução trivial? Em quanto?
 
-Sim, observando a tabela vemos que claramente tal melhora. Considerando as duas soluções inciais, o aumento foi de 50-70% em média.
+Sim, observando a tabela, vemos que claramente tal melhora. Considerando as duas soluções iniciais, o aumento foi de 50-70% em média.
 
 - A busca local conseguiu melhorar a solução gulosa? Em quanto? Compensou fazer busca local na solução gulosa em vez da trivial?
 
-Sim. Nota-se que aplicar a busca local na solução construtiva gerada pela heurísica gulosa resultou na redução do custo em torno de 10%. Esse efeito faz sentido, pois a busca local procura por ótimos locais a partir de um ponto mais vantajoso do que começando de um solução simples como a crescente. Dessa forma, compensa fazer essa combinação.
+Sim. Nota-se que aplicar a busca local na solução construtiva gerada pela heurística gulosa resultou na redução do custo em torno de 11-14%. Esse efeito faz sentido, pois a busca local procura por ótimos locais a partir de um ponto mais vantajoso do que começando de uma solução simples como a crescente. Dessa forma, compensa fazer essa combinação.
 
-Além disso:
-- gil262 e dsj1000 mostram casos onde “two‑sides” supera o “back‑only”, sugerindo que inserir pontos no início ou fim da solução pode ajudar para instâncias maiores.
+- Além disso:
 
+Em instâncias maiores, como dsj1000, a estratégia Two Sides reduziu o custo em 4,3% em comparação ao Back-only, sugerindo que a flexibilidade de inserção em ambas as extremidades é vantajosa para problemas complexos.
