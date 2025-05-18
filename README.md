@@ -5,10 +5,12 @@ Repositório para acompanhar a disciplina INF284 - Metaheurísticas
 
 # Trabalho 1 - Relatório
 
-O trabalho teve como foco a aplicação de heurísticas gulosas e de busca local ao *Traveling Salesman Problem* com limite de pedágios gratuitos. A busca local foi baseada no movimento **2‑opt** combinado com a estratégia **Best Improvement**, enquanto as heurísticas gulosas adotaram os métodos **Nearest Neighbor Back-only** e **Nearest Neighbor Two Sides**.
+O trabalho teve como foco a aplicação de heurísticas gulosas e de busca local sobre o *Traveling Salesman Problem* com limite de pedágios gratuitos. A busca local foi baseada no movimento **2‑opt** combinado com a estratégia **Best Improvement**, enquanto as heurísticas gulosas adotaram os métodos **Nearest Neighbor Back-only** e **Nearest Neighbor Two Sides**.
 
 
 ## Tabela com resultados
+
+Instâncias com prefixo "tX_" são as que possuem pedágios.
 
 <table>
   <thead>
@@ -167,20 +169,20 @@ O trabalho teve como foco a aplicação de heurísticas gulosas e de busca local
 
 - O guloso encontra uma boa rota, comparada à trivial 1, 2, 3, ..., n?
 
-Sim. Comparando a avaliação direta da rota trivial com a que parte da rota gulosa, vemos que o guloso encontra boas rotas, pois obtém resultados bem superiores, reduzindo o custo em 50-60% em média nas instâncias com e sem pedágio.
+Sim. A heurística gulosa reduz o custo em média entre 50-60% em relação à rota trivial (crescente), tanto em instâncias sem pedágio quanto com pedágio. Essa melhoria significativa demonstra que o guloso captura rapidamente boas vizinhanças em sua abordagem.
 
 - Alguma versão do guloso se saiu melhor ou tanto faz?
 
-Tanto faz, pois, embora a segunda versão tenha se destacado em instâncias como gil262 (-4,37%) e dsj1000 (-4,3%), a diferença média entre as estratégias foi bem sútil, indicando desempenho equivalente na maioria dos casos.
+Tanto faz, pois, embora a segunda versão tenha se destacado em instâncias como _gil262_ (-4,37%) e _dsj1000_ (-4,3%), a diferença média entre as estratégias foi bem sútil, indicando desempenho equivalente na maioria dos casos.
 
 - A busca local conseguiu melhorar a solução trivial? Em quanto?
 
-Sim, observando a tabela, vemos que claramente tal melhora. Considerando as duas soluções iniciais, o aumento foi de 50-70% em média.
+Sim, observando a tabela, vemos que aplicar a busca local baseada em _2-opt_ e _Best Improvement_ tem como consequência a redução média de custo em torno de 50-70%, mostrando que a busca local sozinha já é capaz de gerar soluções competitivas mesmo partindo de rotas simples.
 
 - A busca local conseguiu melhorar a solução gulosa? Em quanto? Compensou fazer busca local na solução gulosa em vez da trivial?
 
-Sim. Nota-se que aplicar a busca local na solução construtiva gerada pela heurística gulosa resultou na redução do custo em torno de 11-14%. Esse efeito faz sentido, pois a busca local procura por ótimos locais a partir de um ponto mais vantajoso do que começando de uma solução simples como a crescente. Dessa forma, compensa fazer essa combinação.
+Sim. Nota-se que aplicar a busca local na solução construtiva gerada pela heurística gulosa resultou na redução do custo em torno de 11-14%. Esse efeito faz sentido, pois a busca local procura por ótimos locais a partir de um ponto mais vantajoso do que começando de uma solução simples como a crescente. Dessa forma, compensa realizar tal combinação para alcançar resultados mais robustos.
 
 - Além disso:
 
-Em instâncias maiores, como dsj1000, a estratégia Two Sides reduziu o custo em 4,3% em comparação ao Back-only, sugerindo que a flexibilidade de inserção em ambas as extremidades é vantajosa para problemas complexos.
+Em instâncias maiores, como _dsj1000_, a estratégia _Two Sides_ reduziu o custo em aproxidamente 4% em comparação ao Back-only, sugerindo que a flexibilidade de inserção em ambas as extremidades é vantajosa para problemas complexos.
